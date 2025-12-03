@@ -9,3 +9,4 @@ public class HelloMvcApplication {
         SpringApplication.run(HelloMvcApplication.class, args);
     }
 }
+#this basic code of java springframework
